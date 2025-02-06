@@ -17,7 +17,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // MongoDB connection URI
-const uri = 'mongodb+srv://cye4:4QKWrSRCaDmaOzjp@Cluster0.kr0b0.mongodb.net/cye4';
+const uri = 'mongodb+srv://“your link”';
 
 // JWT Secret
 const JWT_SECRET = 'your-jwt-secret';
