@@ -31,6 +31,8 @@ React (react-router, axios); Node.js with Express, MongoDB through Mongoose, and
 
 [MIT](LICENSE) © 2025 Canyuan Ye
 
+The code is my own, written as an early personal project. In November 2026 Claude helped write this README and its header images and added the license file, which is why Claude appears under Contributors.
+
 ---
 
-中文：早期个人项目，已停止维护。全栈敏捷项目管理网页应用：注册登录、创建项目和团队、编写用户故事并分配给成员（React + Node/Express + MongoDB，JWT 登录）。这份上传里没有 `package.json`，不能直接安装运行，仅供阅读。
+中文：早期个人项目，已停止维护。全栈敏捷项目管理网页应用：注册登录、创建项目和团队、编写用户故事并分配给成员（React + Node/Express + MongoDB，JWT 登录）。这份上传里没有 `package.json`，不能直接安装运行，仅供阅读。代码是我自己早期写的；2026 年 11 月，Claude 帮忙写了这份 README 和头图，并加了许可证文件，所以贡献者里有 Claude。
